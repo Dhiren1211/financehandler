@@ -61,10 +61,10 @@ CREATE TABLE `transactions` (
 --
 
 INSERT INTO `transactions` (`id`, `type`, `description`, `amount`, `currency`, `date`) VALUES
-(1, 'income', 'Saving', 520.00, 'USD', '2025-05-20'),
-(16, 'income', 'Cash', 80000.00, 'KRW', '2025-05-20'),
-(17, 'due', 'CJ', 40000.00, 'KRW', '2025-05-12'),
-(18, 'due', 'CJ', 40000.00, 'KRW', '2025-05-19');
+(1, 'income', 'Salary', 520.00, 'USD', '2025-05-20'),
+(16, 'income', 'Bonus', 80000.00, 'NPR', '2025-05-20'),
+(17, 'due', 'abc', 40000.00, 'NPR', '2025-05-12'),
+(18, 'due', 'dfg', 40000.00, 'KRW', '2025-05-19');
 
 --
 -- Indexes for dumped tables
