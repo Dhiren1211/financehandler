@@ -43,5 +43,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/finance-tracker-pro.git
+git clone https://github.com/Dhiren1211/finance-tracker-pro.git
 cd finance-tracker-pro
